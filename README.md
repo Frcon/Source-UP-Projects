@@ -1,2 +1,7 @@
-# Source-UP-Projects
-İ am coding premium themes for free ! you can get it themes this project and my website :)
+# SourceUP-Project
+This project including;
+-Free premium themes
+-HTML lessons
+-CSS lessons
+-Jquery lessons
+other my website (www.Source-up.com)
